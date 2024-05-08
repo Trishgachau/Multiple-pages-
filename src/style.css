@@ -11,3 +11,18 @@ p {
   color: #642405;
   font-size: 20px;
 }
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: purple;
+}
